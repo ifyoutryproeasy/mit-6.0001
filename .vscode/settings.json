@@ -1,0 +1,10 @@
+{
+    "editor.quickSuggestions": { 
+        "other": "off",
+        "comments": "off",
+        "strings": "off"
+    },
+    "js/ts.tsserver.web.projectWideIntellisense.enabled": true,
+    "js/ts.tsserver.web.projectWideIntellisense.suppressSemanticErrors": false,
+    "editor.wordBasedSuggestions": "off"
+}
