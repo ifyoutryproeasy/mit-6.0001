@@ -51,4 +51,9 @@ print(care_age)
 #haritsuulah uildel
 tentsuu = "=="
 print(f"{tentsuu}ene tentsuu gesen ug ! jishee ni 5 == 5")
-
+v = 10
+u = 3
+print(v / u) # float buyu uldegdeltei huvaah uildel
+print (v // u) # udlegdelgui huvaah
+print (v % u) # uldegdel haruulah
+print (v ** u) # zereg devshuuleh
